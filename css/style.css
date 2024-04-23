@@ -1,0 +1,32 @@
+
+button{
+    cursor: pointer;
+}
+.card{
+    background: rgba(0,0,0,.05) !important;/* to override bt one */
+    box-shadow: 2px 2px 4px rgba(0,0,0,.2) !important;
+    border: none !important;
+}
+
+.disable_btn{
+    cursor:not-allowed;
+}
+
+.plus_sign{
+    margin-top: 5px;
+    font-weight: bold;
+}
+
+
+.pivot{
+    background-color: #c3e6cb;
+    font-weight: bold;
+}
+
+.profiles{
+    padding-left: 50px;
+    list-style: none;
+}
+.profiles a{
+    text-decoration: none;
+}
